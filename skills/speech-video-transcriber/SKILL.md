@@ -1,7 +1,7 @@
 ---
 name: speech-video-transcriber
 version: 0.2.0
-description: Transcribes a local video or audio file into a markdown transcript. Supports two backends - local openai-whisper (no API key, uses ~/.cache/whisper/small.pt) and OpenAI cloud API (gpt-4o-transcribe). Use this whenever the user wants a transcript from a camera take, speech practice video, loom, interview, podcast clip, or voice note, even if they only say "turn this video into text" or "make a transcript". Use --local when the user asks for offline/local transcription or mentions whisper.
+description: Transcribes a local video or audio file into a markdown transcript using Whisper or OpenAI cloud. Use when the user wants a transcript from a video, audio, or voice note.
 ---
 
 # speech-video-transcriber

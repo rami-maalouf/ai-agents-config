@@ -1,7 +1,7 @@
 ---
 name: linkedin-post
 version: 1.0.0
-description: Turns articles, essays, or raw ideas into LinkedIn posts in Rami's personal writing style - raw, authentic, short paragraphs, strong hook, actionable takeaways, under 2,200 characters, targeting young GenZ founders and entrepreneurs. Use whenever the user wants to write a LinkedIn post, convert an article to LinkedIn, or repurpose content for LinkedIn.
+description: Turns articles, essays, or raw ideas into LinkedIn posts in Rami's writing style. Use when the user wants to write a LinkedIn post or repurpose content for LinkedIn.
 ---
 
 # LinkedIn Post Writer

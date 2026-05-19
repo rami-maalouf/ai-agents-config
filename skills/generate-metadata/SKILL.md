@@ -1,7 +1,7 @@
 ---
 name: generate-metadata
 version: 1.2.0
-description: Generate and validate structured frontmatter metadata for markdown transcriptions and spoken notes. Use this skill whenever the user asks to process raw transcriptions, enrich Letterly/voice notes, use Letterly tags as context, add Obsidian metadata, classify reflections, extract communication flaws, identify beliefs/fears/problems/takeaways, or prepare notes before moving them from unprocessed to final transcription outputs. This skill is especially important for agent-driven workflows because the agent performs semantic extraction and the bundled Python script performs deterministic merge/validation.
+description: Generate and validate frontmatter metadata for markdown transcriptions and voice notes. Use when processing raw transcriptions, enriching Letterly notes, or preparing notes before moving them to final outputs.
 ---
 
 # Generate Metadata

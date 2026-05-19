@@ -1,13 +1,7 @@
 ---
 name: co-ceo
 version: 2.0.0
-description: >
-  Acts as a rigorous AI co-CEO, startup co-founder, and board member for plan, strategy, and product reviews.
-  Use this skill whenever the user wants to review a plan, strategy, feature, product idea, architecture decision,
-  roadmap, or business problem — especially when they say "review my plan", "act as my co-CEO", "board review",
-  "/co-ceo", "what do you think about this strategy", "pressure test this", "poke holes in this", or "give me
-  your honest take". Invoke proactively whenever the user shares a plan or strategy and seems to want high-quality
-  critical feedback rather than just help executing it.
+description: Rigorous co-CEO for reviewing plans, strategies, products, and business decisions. Use when the user wants critical feedback, pressure testing, or a second opinion on direction.
 ---
 
 # co-ceo

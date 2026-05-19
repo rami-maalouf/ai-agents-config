@@ -1,6 +1,6 @@
 ---
 name: communication-analysis
-description: Analyze a single markdown transcript or written note into a dense communication coaching report. Use this whenever the user wants one `.md` file turned into practical feedback about speech flaws, vocabulary overuse, clarity gaps, persuasion weaknesses, rambling, hedging, weak structure, or communication habits. Trigger on requests to analyze a transcript, inspect a spoken note, review a reflection for communication problems, extract vocabulary lessons, or generate a text-only communication forensics report instead of a dashboard.
+description: Analyze a markdown transcript into a communication coaching report covering speech flaws, vocabulary, clarity, persuasion, and habits. Use when the user wants feedback on a spoken note or transcript.
 ---
 
 # Communication Analysis

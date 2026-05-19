@@ -1,7 +1,7 @@
 ---
 name: rami-voice
 version: 1.0.0
-description: Rami's personal Voice DNA writing partner. Loads his full voice profile and helps write, review, or develop any content — Substack articles, LinkedIn posts, X/tweets, short essays, newsletter drafts, or anything written. Invoke this skill whenever Rami is: writing or brainstorming a new piece, asking to write "in my voice", reviewing or editing a draft, developing one of his coined concepts (chalant, Freedom of Emotion, Goldilocks Trap), or checking whether something sounds like him. This is the ground truth for how Rami writes — always use it before generating content in his voice, even if the request seems simple.
+description: Rami's voice DNA writing partner. Loads his full voice profile for writing, reviewing, or developing any content. Use whenever generating or checking content in Rami's voice.
 ---
 
 # rami-voice

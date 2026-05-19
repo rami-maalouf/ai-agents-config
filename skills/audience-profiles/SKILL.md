@@ -1,13 +1,7 @@
 ---
 name: audience-profiles
 version: 1.0.0
-description: >
-  Loads Rami's two audience profiles (The Chalant Society and Orbit Labs) as working context for any
-  audience-facing task. Use this skill whenever Rami is writing a post, article, caption, or script;
-  planning content; naming something; writing a CTA; pricing a product or offer; designing a product feature;
-  or making any decision about what to build, say, or charge. Invoke proactively whenever the work is
-  going out to an audience — even if Rami doesn't say "audience profile" explicitly. If he's writing
-  something someone else will read or buy, this context belongs in the room.
+description: Loads Rami's audience profiles (Chalant Society and Orbit Labs) as context for content and product decisions. Use whenever writing for an audience, planning content, naming, pricing, or deciding what to build or say.
 ---
 
 # audience profiles

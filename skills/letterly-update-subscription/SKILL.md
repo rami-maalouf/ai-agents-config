@@ -1,7 +1,7 @@
 ---
 name: letterly-update-subscription
 version: 1.0.0
-description: Automates the process of starting a new 7-day free trial on Letterly and then immediately canceling the subscription (to prevent automatic charges after 7 days). This skill handles the navigation from Letterly to Stripe Checkout and then back to the Stripe Billing Portal for cancellation. Use when the user asks to "start a new trial", "update my subscription", or "reset my trial on letterly".
+description: Start a new 7-day Letterly free trial and immediately cancel to avoid charges. Use when asked to reset or update the Letterly trial.
 ---
 
 # Letterly Update Subscription
