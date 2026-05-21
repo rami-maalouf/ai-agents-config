@@ -4,6 +4,7 @@ __pycache__
 .env
 *.pyc
 __workspace__
+transcriptions
 
 # private skills:
 immigration-advisor
