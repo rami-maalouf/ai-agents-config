@@ -205,21 +205,21 @@ Weak:
 For one file:
 
 ```bash
-python3.12 /Users/rami/Documents/life-os/ai-agents-config/skills/generate-metadata/scripts/generate_metadata.py apply path/to/note.md --metadata-file /tmp/metadata.json
-python3.12 /Users/rami/Documents/life-os/ai-agents-config/skills/generate-metadata/scripts/generate_metadata.py validate path/to/note.md
+/Users/rami/Documents/life-os/ai-agents-config/skills/.venv/bin/python /Users/rami/Documents/life-os/ai-agents-config/skills/generate-metadata/scripts/generate_metadata.py apply path/to/note.md --metadata-file /tmp/metadata.json
+/Users/rami/Documents/life-os/ai-agents-config/skills/.venv/bin/python /Users/rami/Documents/life-os/ai-agents-config/skills/generate-metadata/scripts/generate_metadata.py validate path/to/note.md
 ```
 
 For many files:
 
 ```bash
-python3.12 /Users/rami/Documents/life-os/ai-agents-config/skills/generate-metadata/scripts/generate_metadata.py apply-batch /tmp/metadata-batch.json
-python3.12 /Users/rami/Documents/life-os/ai-agents-config/skills/generate-metadata/scripts/generate_metadata.py validate path/to/one.md path/to/two.md
+/Users/rami/Documents/life-os/ai-agents-config/skills/.venv/bin/python /Users/rami/Documents/life-os/ai-agents-config/skills/generate-metadata/scripts/generate_metadata.py apply-batch /tmp/metadata-batch.json
+/Users/rami/Documents/life-os/ai-agents-config/skills/.venv/bin/python /Users/rami/Documents/life-os/ai-agents-config/skills/generate-metadata/scripts/generate_metadata.py validate path/to/one.md path/to/two.md
 ```
 
 To inspect the current schema:
 
 ```bash
-python3.12 /Users/rami/Documents/life-os/ai-agents-config/skills/generate-metadata/scripts/generate_metadata.py schema
+/Users/rami/Documents/life-os/ai-agents-config/skills/.venv/bin/python /Users/rami/Documents/life-os/ai-agents-config/skills/generate-metadata/scripts/generate_metadata.py schema
 ```
 
 ## Payload Format

@@ -14,8 +14,8 @@ def run_workflow(mode="full"):
     vault_root = get_vault_root()
     print(f"Detected Vault Root: {vault_root}")
 
-    # Use a stable python version
-    python_exe = "python3.12"
+    # use the skills venv python (has playwright, pyyaml, numpy, etc.)
+    python_exe = os.path.join(SKILLS_DIR, ".venv", "bin", "python")
 
     skills_dir = SKILLS_DIR
     
